@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-  
  
 file = open("/sys/class/thermal/thermal_zone0/temp")  
