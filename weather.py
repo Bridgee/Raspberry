@@ -1,6 +1,7 @@
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# @Time     : 2017/1/15 15:16
-# @Author   : woodenrobot
+
+
 
 
 import os
